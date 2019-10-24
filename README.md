@@ -1,3 +1,11 @@
+In this excersise, I follwed the istructions listed below to create a moving ball off a paddle in godot. I found the instructions below to be very detailed and clear therefore making the completion of this project easy, simple, and incredibly comprehensible. I am looking forward to working more with Godot. 
+
+
+
+
+
+
+
 # E08a-Paddle-Ball
 This is the first Godot exercise for BL-MSCH-C220. As usual, Fork and Clone this repository.
 
